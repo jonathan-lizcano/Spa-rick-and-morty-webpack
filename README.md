@@ -1,5 +1,5 @@
-# webpack-configuracion-estandar
-Fin de la sección 8
+# Spa-rick-and-morty-webpack
+
 
 
 ## Nota
